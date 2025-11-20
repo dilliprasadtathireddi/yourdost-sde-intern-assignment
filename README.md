@@ -21,6 +21,7 @@ This repo contains my solutions for the YourDOST SDE Intern Assignment.
 
 - All code is written in Python 🐍
 - For any questions or suggestions, feel free to open an issue!
+- Each code is easily understandable
 
 ---
 
